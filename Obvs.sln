@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs", "Obvs\Obvs.csproj", "{325264EE-18AA-4DF4-9306-3FE7A1F49A98}"
 EndProject
@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".docs", ".docs", "{AE31114F
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs.Standard", "Obvs.Standard\Obvs.Standard.csproj", "{AFB1F4C3-966C-43AD-B5FF-E9627766F260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A50FE991-84FA-4E48-BEF7-B0DB8F0F09D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A50FE991-84FA-4E48-BEF7-B0DB8F0F09D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A50FE991-84FA-4E48-BEF7-B0DB8F0F09D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB1F4C3-966C-43AD-B5FF-E9627766F260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB1F4C3-966C-43AD-B5FF-E9627766F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB1F4C3-966C-43AD-B5FF-E9627766F260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB1F4C3-966C-43AD-B5FF-E9627766F260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
